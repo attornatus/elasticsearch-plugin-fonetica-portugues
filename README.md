@@ -1,0 +1,1 @@
+elasticsearch-plugin-fonetica-portugues
