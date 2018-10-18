@@ -1,14 +1,17 @@
-#Phonetic plugin português para ElasticSearch
+# Phonetic plugin português para ElasticSearch
+
 A Phonetic plugin para português é baseado no Phonetic Analysis plugin.
 
-##Instação
+## Instação
+
 A instalação do plugin deve ser feita de forma offline, conforme o site do elasticsearch.
-https://www.elastic.co/guide/en/elasticsearch/plugins/6.1/plugin-management-custom-url.html 
+[https://www.elastic.co/guide/en/elasticsearch/plugins/6.1/plugin-management-custom-url.html]
     
     sudo bin/elasticsearch-plugin install file:///path/to/elasticsearch-fonetica-portuguesa-0.0.1.zip
     
 O arquivo "elasticsearch-fonetica-portuguesa-0.0.1.zip" está dentro da pasta "plugin" do projeto.     
-##Configuração
+
+## Configuração
 
 Na configuração do seu index, setar comando abaixo para criação do analyser. 
 ```
@@ -50,7 +53,8 @@ GET exemploindex/_analyze
 }
 ```
 
-##Versões
+## Versões
+
 Este plugin foi testado nas versões: 
  * elasticsearch: 6.3.0
  * java.version: 1.8
