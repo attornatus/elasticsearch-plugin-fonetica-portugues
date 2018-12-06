@@ -178,3 +178,25 @@ target/surefire-reports/Surefire suite/Surefire test\.xml
 target/surefire-reports/TEST-com\.attornatus\.es\.FoneticaPortuguesaTests\.xml
 
 target/surefire-reports/testng-results\.xml
+
+\.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+
+\.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+
+\.idea/sonarlint/issuestore/b/e/be94191cbd64eca90df40628ba66933189d6c355
+
+\.idea/sonarlint/issuestore/e/0/e0eb336f8db22f5712f155031d7a920795e077ca
+
+\.idea/sonarlint/issuestore/e/d/edc7465361dbb5a3fccd58d0088f9d73cff9f173
+
+\.idea/sonarlint/issuestore/index\.pb
+
+\.idea/libraries/Maven__org_elasticsearch_elasticsearch_6_5_2\.xml
+
+\.idea/libraries/Maven__org_elasticsearch_elasticsearch_cli_6_5_2\.xml
+
+\.idea/libraries/Maven__org_elasticsearch_elasticsearch_core_6_5_2\.xml
+
+\.idea/libraries/Maven__org_elasticsearch_elasticsearch_secure_sm_6_5_2\.xml
+
+\.idea/libraries/Maven__org_elasticsearch_elasticsearch_x_content_6_5_2\.xml

@@ -2,48 +2,48 @@
 <testng-results skipped="0" failed="0" total="19" passed="19">
   <reporter-output>
   </reporter-output>
-  <suite name="Surefire suite" duration-ms="19" started-at="2018-12-05T11:49:27Z" finished-at="2018-12-05T11:49:27Z">
+  <suite name="Surefire suite" duration-ms="34" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
     <groups>
     </groups>
-    <test name="Surefire test" duration-ms="19" started-at="2018-12-05T11:49:27Z" finished-at="2018-12-05T11:49:27Z">
+    <test name="Surefire test" duration-ms="34" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
       <class name="com.attornatus.es.FoneticaPortuguesaTests">
-        <test-method status="PASS" signature="testAMbeforeVocal()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testAMbeforeVocal" duration-ms="6" started-at="2018-12-05T11:49:27Z" finished-at="2018-12-05T11:49:27Z">
+        <test-method status="PASS" signature="testAMbeforeVocal()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testAMbeforeVocal" duration-ms="10" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
         </test-method>
-        <test-method status="PASS" signature="testCeCCemK()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testCeCCemK" duration-ms="1" started-at="2018-12-05T11:49:27Z" finished-at="2018-12-05T11:49:27Z">
+        <test-method status="PASS" signature="testCemSifCBeforeEI()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testCemSifCBeforeEI" duration-ms="5" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
         </test-method>
-        <test-method status="PASS" signature="testAOeAMemAN()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testAOeAMemAN" duration-ms="0" started-at="2018-12-05T11:49:27Z" finished-at="2018-12-05T11:49:27Z">
+        <test-method status="PASS" signature="testCeCCemK()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testCeCCemK" duration-ms="0" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
         </test-method>
-        <test-method status="PASS" signature="testConsonantClusterOfHLetter()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testConsonantClusterOfHLetter" duration-ms="0" started-at="2018-12-05T11:49:27Z" finished-at="2018-12-05T11:49:27Z">
+        <test-method status="PASS" signature="testAOeAMemAN()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testAOeAMemAN" duration-ms="0" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
         </test-method>
-        <test-method status="PASS" signature="testEAemEIA()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testEAemEIA" duration-ms="0" started-at="2018-12-05T11:49:27Z" finished-at="2018-12-05T11:49:27Z">
+        <test-method status="PASS" signature="testConsonantClusterOfHLetter()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testConsonantClusterOfHLetter" duration-ms="1" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
         </test-method>
-        <test-method status="PASS" signature="testCemSifCBeforeEI()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testCemSifCBeforeEI" duration-ms="0" started-at="2018-12-05T11:49:27Z" finished-at="2018-12-05T11:49:27Z">
+        <test-method status="PASS" signature="testEAemEIA()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testEAemEIA" duration-ms="0" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
         </test-method>
-        <test-method status="PASS" signature="testGbeforeEandI()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testGbeforeEandI" duration-ms="0" started-at="2018-12-05T11:49:27Z" finished-at="2018-12-05T11:49:27Z">
+        <test-method status="PASS" signature="testGSound()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testGSound" duration-ms="1" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
         </test-method>
-        <test-method status="PASS" signature="testGSound()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testGSound" duration-ms="0" started-at="2018-12-05T11:49:27Z" finished-at="2018-12-05T11:49:27Z">
+        <test-method status="PASS" signature="testGbeforeEandI()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testGbeforeEandI" duration-ms="0" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
         </test-method>
-        <test-method status="PASS" signature="testHMute()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testHMute" duration-ms="0" started-at="2018-12-05T11:49:27Z" finished-at="2018-12-05T11:49:27Z">
+        <test-method status="PASS" signature="testLAsConsonant()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testLAsConsonant" duration-ms="0" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
         </test-method>
-        <test-method status="PASS" signature="testOEeOISemOIN()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testOEeOISemOIN" duration-ms="0" started-at="2018-12-05T11:49:27Z" finished-at="2018-12-05T11:49:27Z">
+        <test-method status="PASS" signature="testHMute()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testHMute" duration-ms="0" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
         </test-method>
-        <test-method status="PASS" signature="testLWithSoundOfU()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testLWithSoundOfU" duration-ms="0" started-at="2018-12-05T11:49:27Z" finished-at="2018-12-05T11:49:27Z">
+        <test-method status="PASS" signature="testOEeOISemOIN()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testOEeOISemOIN" duration-ms="0" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
         </test-method>
-        <test-method status="PASS" signature="testLAsConsonant()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testLAsConsonant" duration-ms="0" started-at="2018-12-05T11:49:27Z" finished-at="2018-12-05T11:49:27Z">
+        <test-method status="PASS" signature="testLWithSoundOfU()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testLWithSoundOfU" duration-ms="0" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
         </test-method>
-        <test-method status="PASS" signature="testQUBeforeAandO()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testQUBeforeAandO" duration-ms="0" started-at="2018-12-05T11:49:27Z" finished-at="2018-12-05T11:49:27Z">
+        <test-method status="PASS" signature="testQUBeforeAandO()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testQUBeforeAandO" duration-ms="0" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
         </test-method>
-        <test-method status="PASS" signature="testSSeCemS()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testSSeCemS" duration-ms="0" started-at="2018-12-05T11:49:27Z" finished-at="2018-12-05T11:49:27Z">
+        <test-method status="PASS" signature="testQUBeforeEandI()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testQUBeforeEandI" duration-ms="0" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
         </test-method>
-        <test-method status="PASS" signature="testQUBeforeEandI()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testQUBeforeEandI" duration-ms="0" started-at="2018-12-05T11:49:27Z" finished-at="2018-12-05T11:49:27Z">
+        <test-method status="PASS" signature="testQUBeforeU()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testQUBeforeU" duration-ms="0" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
         </test-method>
-        <test-method status="PASS" signature="testQUBeforeU()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testQUBeforeU" duration-ms="0" started-at="2018-12-05T11:49:27Z" finished-at="2018-12-05T11:49:27Z">
+        <test-method status="PASS" signature="testRRemR()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testRRemR" duration-ms="0" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
         </test-method>
-        <test-method status="PASS" signature="testSWithSoundOFZ()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testSWithSoundOFZ" duration-ms="1" started-at="2018-12-05T11:49:27Z" finished-at="2018-12-05T11:49:27Z">
+        <test-method status="PASS" signature="testSSeCemS()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testSSeCemS" duration-ms="0" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
         </test-method>
-        <test-method status="PASS" signature="testRRemR()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testRRemR" duration-ms="0" started-at="2018-12-05T11:49:27Z" finished-at="2018-12-05T11:49:27Z">
+        <test-method status="PASS" signature="testTTemT()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testTTemT" duration-ms="0" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
         </test-method>
-        <test-method status="PASS" signature="testTTemT()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testTTemT" duration-ms="0" started-at="2018-12-05T11:49:27Z" finished-at="2018-12-05T11:49:27Z">
+        <test-method status="PASS" signature="testSWithSoundOFZ()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testSWithSoundOFZ" duration-ms="0" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
         </test-method>
       </class>
     </test>
