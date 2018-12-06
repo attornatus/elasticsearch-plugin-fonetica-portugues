@@ -56,6 +56,6 @@ GET exemploindex/_analyze
 ## Versões
 
 Este plugin foi testado nas versões: 
- * elasticsearch: 6.5.1
+ * elasticsearch: 6.5.2
  * java.version: 1.8
 

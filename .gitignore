@@ -190,3 +190,13 @@ target/surefire-reports/testng-results\.xml
 \.idea/sonarlint/issuestore/e/d/edc7465361dbb5a3fccd58d0088f9d73cff9f173
 
 \.idea/sonarlint/issuestore/index\.pb
+
+\.idea/libraries/Maven__org_elasticsearch_elasticsearch_6_5_2\.xml
+
+\.idea/libraries/Maven__org_elasticsearch_elasticsearch_cli_6_5_2\.xml
+
+\.idea/libraries/Maven__org_elasticsearch_elasticsearch_core_6_5_2\.xml
+
+\.idea/libraries/Maven__org_elasticsearch_elasticsearch_secure_sm_6_5_2\.xml
+
+\.idea/libraries/Maven__org_elasticsearch_elasticsearch_x_content_6_5_2\.xml
