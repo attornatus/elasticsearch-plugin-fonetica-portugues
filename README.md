@@ -56,6 +56,14 @@ GET exemploindex/_analyze
 ## Versões
 
 Este plugin foi testado nas versões: 
+ 
+ elasticsearch-fonetica-portuguesa-0.0.1.zip:
+
  * elasticsearch: 6.5.2
+ * java.version: 1.8
+
+elasticsearch-fonetica-portuguesa-0.0.2.zip
+
+ * elasticsearch: 7.13.3
  * java.version: 1.8
 
