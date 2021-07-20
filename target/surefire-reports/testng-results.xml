@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="19" passed="19">
+<testng-results total="19" passed="19" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Surefire suite" duration-ms="34" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
+  <suite started-at="2021-07-19T22:26:25Z" name="Surefire suite" finished-at="2021-07-19T22:26:25Z" duration-ms="20">
     <groups>
     </groups>
-    <test name="Surefire test" duration-ms="34" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
+    <test started-at="2021-07-19T22:26:25Z" name="Surefire test" finished-at="2021-07-19T22:26:25Z" duration-ms="20">
       <class name="com.attornatus.es.FoneticaPortuguesaTests">
-        <test-method status="PASS" signature="testAMbeforeVocal()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testAMbeforeVocal" duration-ms="10" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
+        <test-method signature="testAMbeforeVocal()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@32eff876]" started-at="2021-07-19T22:26:25Z" name="testAMbeforeVocal" finished-at="2021-07-19T22:26:25Z" duration-ms="7" status="PASS">
         </test-method>
-        <test-method status="PASS" signature="testCemSifCBeforeEI()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testCemSifCBeforeEI" duration-ms="5" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
+        <test-method signature="testAOeAMemAN()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@32eff876]" started-at="2021-07-19T22:26:25Z" name="testAOeAMemAN" finished-at="2021-07-19T22:26:25Z" duration-ms="0" status="PASS">
         </test-method>
-        <test-method status="PASS" signature="testCeCCemK()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testCeCCemK" duration-ms="0" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
+        <test-method signature="testCeCCemK()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@32eff876]" started-at="2021-07-19T22:26:25Z" name="testCeCCemK" finished-at="2021-07-19T22:26:25Z" duration-ms="0" status="PASS">
         </test-method>
-        <test-method status="PASS" signature="testAOeAMemAN()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testAOeAMemAN" duration-ms="0" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
+        <test-method signature="testCemSifCBeforeEI()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@32eff876]" started-at="2021-07-19T22:26:25Z" name="testCemSifCBeforeEI" finished-at="2021-07-19T22:26:25Z" duration-ms="0" status="PASS">
         </test-method>
-        <test-method status="PASS" signature="testConsonantClusterOfHLetter()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testConsonantClusterOfHLetter" duration-ms="1" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
+        <test-method signature="testEAemEIA()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@32eff876]" started-at="2021-07-19T22:26:25Z" name="testEAemEIA" finished-at="2021-07-19T22:26:25Z" duration-ms="0" status="PASS">
         </test-method>
-        <test-method status="PASS" signature="testEAemEIA()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testEAemEIA" duration-ms="0" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
+        <test-method signature="testGSound()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@32eff876]" started-at="2021-07-19T22:26:25Z" name="testGSound" finished-at="2021-07-19T22:26:25Z" duration-ms="1" status="PASS">
         </test-method>
-        <test-method status="PASS" signature="testGSound()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testGSound" duration-ms="1" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
+        <test-method signature="testConsonantClusterOfHLetter()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@32eff876]" started-at="2021-07-19T22:26:25Z" name="testConsonantClusterOfHLetter" finished-at="2021-07-19T22:26:25Z" duration-ms="0" status="PASS">
         </test-method>
-        <test-method status="PASS" signature="testGbeforeEandI()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testGbeforeEandI" duration-ms="0" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
+        <test-method signature="testGbeforeEandI()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@32eff876]" started-at="2021-07-19T22:26:25Z" name="testGbeforeEandI" finished-at="2021-07-19T22:26:25Z" duration-ms="0" status="PASS">
         </test-method>
-        <test-method status="PASS" signature="testLAsConsonant()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testLAsConsonant" duration-ms="0" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
+        <test-method signature="testLWithSoundOfU()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@32eff876]" started-at="2021-07-19T22:26:25Z" name="testLWithSoundOfU" finished-at="2021-07-19T22:26:25Z" duration-ms="0" status="PASS">
         </test-method>
-        <test-method status="PASS" signature="testHMute()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testHMute" duration-ms="0" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
+        <test-method signature="testLAsConsonant()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@32eff876]" started-at="2021-07-19T22:26:25Z" name="testLAsConsonant" finished-at="2021-07-19T22:26:25Z" duration-ms="0" status="PASS">
         </test-method>
-        <test-method status="PASS" signature="testOEeOISemOIN()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testOEeOISemOIN" duration-ms="0" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
+        <test-method signature="testHMute()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@32eff876]" started-at="2021-07-19T22:26:25Z" name="testHMute" finished-at="2021-07-19T22:26:25Z" duration-ms="0" status="PASS">
         </test-method>
-        <test-method status="PASS" signature="testLWithSoundOfU()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testLWithSoundOfU" duration-ms="0" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
+        <test-method signature="testQUBeforeAandO()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@32eff876]" started-at="2021-07-19T22:26:25Z" name="testQUBeforeAandO" finished-at="2021-07-19T22:26:25Z" duration-ms="0" status="PASS">
         </test-method>
-        <test-method status="PASS" signature="testQUBeforeAandO()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testQUBeforeAandO" duration-ms="0" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
+        <test-method signature="testOEeOISemOIN()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@32eff876]" started-at="2021-07-19T22:26:25Z" name="testOEeOISemOIN" finished-at="2021-07-19T22:26:25Z" duration-ms="0" status="PASS">
         </test-method>
-        <test-method status="PASS" signature="testQUBeforeEandI()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testQUBeforeEandI" duration-ms="0" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
+        <test-method signature="testQUBeforeEandI()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@32eff876]" started-at="2021-07-19T22:26:25Z" name="testQUBeforeEandI" finished-at="2021-07-19T22:26:25Z" duration-ms="0" status="PASS">
         </test-method>
-        <test-method status="PASS" signature="testQUBeforeU()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testQUBeforeU" duration-ms="0" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
+        <test-method signature="testQUBeforeU()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@32eff876]" started-at="2021-07-19T22:26:25Z" name="testQUBeforeU" finished-at="2021-07-19T22:26:25Z" duration-ms="0" status="PASS">
         </test-method>
-        <test-method status="PASS" signature="testRRemR()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testRRemR" duration-ms="0" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
+        <test-method signature="testTTemT()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@32eff876]" started-at="2021-07-19T22:26:25Z" name="testTTemT" finished-at="2021-07-19T22:26:25Z" duration-ms="1" status="PASS">
         </test-method>
-        <test-method status="PASS" signature="testSSeCemS()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testSSeCemS" duration-ms="0" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
+        <test-method signature="testRRemR()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@32eff876]" started-at="2021-07-19T22:26:25Z" name="testRRemR" finished-at="2021-07-19T22:26:25Z" duration-ms="0" status="PASS">
         </test-method>
-        <test-method status="PASS" signature="testTTemT()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testTTemT" duration-ms="0" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
+        <test-method signature="testSSeCemS()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@32eff876]" started-at="2021-07-19T22:26:25Z" name="testSSeCemS" finished-at="2021-07-19T22:26:25Z" duration-ms="0" status="PASS">
         </test-method>
-        <test-method status="PASS" signature="testSWithSoundOFZ()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@735f7ae5]" name="testSWithSoundOFZ" duration-ms="0" started-at="2018-12-06T11:50:36Z" finished-at="2018-12-06T11:50:36Z">
+        <test-method signature="testSWithSoundOFZ()[pri:0, instance:com.attornatus.es.FoneticaPortuguesaTests@32eff876]" started-at="2021-07-19T22:26:25Z" name="testSWithSoundOFZ" finished-at="2021-07-19T22:26:25Z" duration-ms="0" status="PASS">
         </test-method>
       </class>
     </test>

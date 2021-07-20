@@ -1,4 +1,4 @@
-com/attornatus/es/PhoneticTokenFilterFactory.class
-com/attornatus/es/PhoneticAnalysisBinderProcessor.class
-com/attornatus/es/FoneticaPortuguesa.class
-com/attornatus/es/FoneticaPortuguesa$EncoderLetterByLetter.class
+com\attornatus\es\FoneticaPortuguesa.class
+com\attornatus\es\FoneticaPortuguesa$EncoderLetterByLetter.class
+com\attornatus\es\PhoneticTokenFilterFactory.class
+com\attornatus\es\PhoneticAnalysisBinderProcessor.class

@@ -7,7 +7,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.attornatus</groupId>
     <artifactId>elasticsearch-fonetica-portuguesa</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <packaging>jar</packaging>
     <description>Portuguese Phonetic Analysis for ElasticSearch</description>
     <inceptionYear>2018</inceptionYear>
@@ -32,8 +32,8 @@
     </parent>
 
     <properties>
-        <elasticsearch.version>6.5.2</elasticsearch.version>
-        <lucene.version>7.5.0</lucene.version>
+        <elasticsearch.version>7.13.3</elasticsearch.version>
+        <lucene.version>8.8.2</lucene.version>
     </properties>
 
     <dependencies>
